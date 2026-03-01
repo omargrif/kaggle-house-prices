@@ -141,5 +141,5 @@ jupyter notebook
 
 **Omar Grifat**
 - GitHub: [@omargrif](https://github.com/omargrif)
-- LinkedIn: *(add link)*
-- Email: *(add email)*
+- LinkedIn: www.linkedin.com/in/omar-grif-742304317
+- Email: omar.grif@emines.um6p.ma
